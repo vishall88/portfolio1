@@ -1,0 +1,26 @@
+SACHCHIDANAND GUPT — PORTFOLIO V3
+
+OPEN
+1. Extract this ZIP completely.
+2. Open index.html in Chrome or Edge.
+3. Keep the assets and videos folders beside index.html.
+
+EDIT PHOTOS / POSTERS
+- Replace files in assets/ (keep the same filename), or edit the matching src="assets/..." in index.html.
+- hero-person-enhanced.png is the gently enhanced portrait used on the front page.
+- hero-person-original.png is your original transparent cutout backup.
+
+EDIT VIDEOS
+- Replace the files in videos/ while keeping these names:
+  krishna-color-grade.mp4
+  color-grade-reel.mp4
+  day-to-night.mp4
+- To add a video card, copy an existing <article class="video-card"> block in index.html and update its video path and title.
+
+EDIT TEXT / CONTACT
+- Open index.html in VS Code, Notepad++, or any text editor.
+- Search for text you want to change. Contact links are in the Contact section.
+
+NOTES
+- Internet is only needed for the Google Fonts import; the layout, images and videos are local.
+- The site adapts to desktop and mobile. Animations respect the device's reduced-motion setting.
